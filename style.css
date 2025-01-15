@@ -77,8 +77,10 @@ color: white;
 }
 */
 #about-me-button {
-  border:none
-  outline:none
+  padding: 0;
+  display: none;
+  border:none;
+  outline:none;
 }
 .glow-on-hover {
   width: 220px;
