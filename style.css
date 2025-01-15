@@ -78,7 +78,7 @@ color: white;
 */
 #about-me-button {
   padding: 0;
-  border-radius: 10px;
+  display: inline;
   border:none;
   outline:none;
 }
